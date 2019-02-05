@@ -1,0 +1,1 @@
+iomanip的setprecision函数会自动四舍五入，而不是舍去
