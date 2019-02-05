@@ -1,1 +1,2 @@
 可以用pair存储online和offline的时间。读完全部记录后排序，遍历，把i-1为offline和i为online的一组数据加入pair。iomanip的速度较慢，会超时，需要结合printf的格式控制
+注意输入数据量为0时的情况
