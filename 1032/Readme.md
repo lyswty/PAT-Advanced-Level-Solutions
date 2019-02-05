@@ -1,0 +1,2 @@
+用两个unordered_map保存访问信息和结点
+iomanip速度慢会超时，使用cin.tie(0)和ios::sync_with_stdio(false)关闭与c标准输入输出的同步可以大大缩短时间
