@@ -1,0 +1,1 @@
+DFS或BFS都可以。用递归的DFS会爆栈，所以不使用递归。很简单，把BFS的queue换成stack就是非递归的DFS了。
