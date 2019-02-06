@@ -1,0 +1,1 @@
+反转链表，这类题我直接用unordered_map存储地址和结点的映射，再存到vector中，然后不反转直接按照顺序输出。注意需要控制格式的输出，iomanip速度较慢，需要关闭cin与cout，cin与scanf的同步，如果还是超时，就直接用scanf和printf
